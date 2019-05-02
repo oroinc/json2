@@ -1,0 +1,12 @@
+{
+    "name": "oro/json2",
+    "type": "library",
+    "require": {},
+    "extra": {
+        "component": {
+            "scripts": [
+                "json2.js"
+            ]
+        }
+    }
+}
